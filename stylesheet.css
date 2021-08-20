@@ -26,6 +26,7 @@ body {
             margin: 0px 35px 0px 0px;
             background-color: chartreuse;
             font-size: 15px;
+                    cursor:pointer;
         }
         #on:hover{
             background-color: rgb(92, 179, 6);
@@ -46,5 +47,6 @@ body {
             border-radius: 20px;
             margin: 0px 0px 0px 35px;
             font-weight: 700;
+            cursor:pointer;
         }
 
