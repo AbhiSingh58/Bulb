@@ -1,0 +1,48 @@
+ body {
+            background-color: rgb(0, 0, 0);
+        }
+
+        .cont {
+
+            text-align: center;
+        }
+
+        #img {
+            height: 300px;
+            margin: 150px 0px 29px 0px;
+        }
+
+        #buttons {
+            margin: 2px 1px 0px 6px;
+
+        }
+
+        #on {
+            font-weight: 700;
+            width: 80px;
+            height: 27px;
+            border-radius: 20px;
+            margin: 0px 35px 0px 0px;
+            background-color: chartreuse;
+            font-size: 15px;
+        }
+        #on:hover{
+            background-color: rgb(92, 179, 6);
+            color: white;
+        }
+        #off:hover{
+        
+            background-color: rgb(180, 0, 0);
+            color: white;
+        }  
+
+
+        #off {
+            font-size: 15px;
+            background-color: red;
+            width: 80px;
+            height: 27px;
+            border-radius: 20px;
+            margin: 0px 0px 0px 35px;
+            font-weight: 700;
+        }
