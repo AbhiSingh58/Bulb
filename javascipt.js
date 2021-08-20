@@ -1,5 +1,4 @@
-
-const image = document.getElementById("img")
+ const image = document.getElementById("img")
         const onb = document.getElementById("on")
         const offb = document.getElementById("off")
         onb.addEventListener("click", () => {
@@ -8,14 +7,11 @@ const image = document.getElementById("img")
 
                 console.log("hi")
             }
-        })
+        });
 
         offb.addEventListener("click", () => {
             if (image.src.match("on")) {
                 image.src = "bulbof.gif"
                 console.log("hey")
             }
-
-
-
-        })
+            });
