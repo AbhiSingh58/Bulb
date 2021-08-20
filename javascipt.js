@@ -1,4 +1,4 @@
-<script>
+
 const image = document.getElementById("img")
         const onb = document.getElementById("on")
         const offb = document.getElementById("off")
@@ -19,4 +19,3 @@ const image = document.getElementById("img")
 
 
         })
-</script>
