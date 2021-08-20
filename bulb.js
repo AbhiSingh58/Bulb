@@ -1,4 +1,5 @@
- const image = document.getElementById("img")
+<cript>
+const image = document.getElementById("img")
         const onb = document.getElementById("on")
         const offb = document.getElementById("off")
         onb.addEventListener("click", () => {
@@ -18,3 +19,4 @@
 
 
         })
+</script>
